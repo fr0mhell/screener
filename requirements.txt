@@ -1,0 +1,4 @@
+configparser
+pillow
+pyscreenshot
+vk_api
